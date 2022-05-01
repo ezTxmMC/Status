@@ -1,0 +1,9 @@
+name: Status
+version: '${project.version}'
+main: tv.eztxm.status.Status
+api-version: 1.17
+authors: [ ezTxmMC ]
+softdepend: [PlaceholderAPI]
+
+commands:
+  status:
